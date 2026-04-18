@@ -11,4 +11,6 @@ O foco do projeto foi praticar HTML, CSS e JavaScript, criando uma interface mod
 <img alt="JS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </p>
 
-<a href = "https://thecoaty.github.io/NetflixCloneAlura/" target="_blank"><h2>🔗 Acesse aqui</h2></a>
+<a href = "https://thecoaty.github.io/NetflixCloneAlura/" target="blank">
+🔗 Acesse aqui
+</a>
